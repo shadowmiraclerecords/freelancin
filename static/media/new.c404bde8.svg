@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="135" height="60" viewBox="0 0 135 60">
+  <g id="Group_8" data-name="Group 8" transform="translate(-425 -159)">
+    <text id="EUROMITA" transform="translate(528 187)" fill="#fff" font-size="12.5" font-family="OpenSans, Open Sans"><tspan x="-31.119" y="0">EUROMITA</tspan></text>
+    <g id="Group_1" data-name="Group 1">
+      <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(445 159)" stroke="#000" stroke-width="1">
+        <rect width="40" height="40" stroke="none"/>
+        <rect x="0.5" y="0.5" width="39" height="39" fill="none"/>
+      </g>
+      <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(425 179)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="40" height="40" stroke="none"/>
+        <rect x="0.5" y="0.5" width="39" height="39" fill="none"/>
+      </g>
+      <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(445 179)" fill="#00b2d6" stroke="#000" stroke-width="1">
+        <rect width="20" height="20" stroke="none"/>
+        <rect x="0.5" y="0.5" width="19" height="19" fill="none"/>
+      </g>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="19" height="19" transform="translate(446 179)" fill="#00b2d6"/>
+    </g>
+    <text id="Tile_Stone" data-name="Tile &amp; Stone" transform="translate(528 202)" fill="#fff" font-size="11" font-family="OpenSans, Open Sans"><tspan x="-30.527" y="0">Tile &amp; Stone</tspan></text>
+  </g>
+</svg>
